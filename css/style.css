@@ -640,7 +640,7 @@ h1, h2, h3, h4, h5,
         max-width: 100%; } }
 
 .site-section {
-  padding: 10em 0; }
+  padding: 2em 0; }
   @media (max-width: 991.98px) {
     .site-section {
       padding: 4em 0; } }
@@ -700,7 +700,7 @@ h1, h2, h3, h4, h5,
   position: relative; }
   .image-absolute-box .box {
     position: absolute;
-    background: #007bff;
+    background: #ffe600;
     padding: 30px;
     max-width: 300px;
     top: -20%;
@@ -713,16 +713,16 @@ h1, h2, h3, h4, h5,
         width: 100%;
         max-width: 100%; } }
     .image-absolute-box .box .icon-wrap {
-      color: #fff;
+      color: #000000;
       margin-bottom: 1.5rem; }
       .image-absolute-box .box .icon-wrap span {
         font-size: 2rem; }
     .image-absolute-box .box h3 {
       font-size: 1.2rem;
-      color: #fff;
+      color: #000000;
       margin-bottom: 1.5rem; }
     .image-absolute-box .box p {
-      color: rgba(255, 255, 255, 0.55); }
+      color: rgba(0, 0, 0, 0.55); }
 
 .section-1 {
   margin-top: 10rem; }
